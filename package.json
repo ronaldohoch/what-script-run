@@ -1,0 +1,32 @@
+{
+  "name": "what-script-run",
+  "version": "1.0.0",
+  "description": "Small helper to choose which npm script run.",
+  "main": "./lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "bin":{
+    "wsr":"bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    
+    "dir":"dir"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronaldohoch/what-script-run.git"
+  },
+  "keywords": [],
+  "author": "Ronaldo Hoch",
+  "license": "ISC",
+  "preferGlobal": true,
+  "bugs": {
+    "url": "https://github.com/ronaldohoch/what-script-run/issues"
+  },
+  "homepage": "https://github.com/ronaldohoch/what-script-run#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
