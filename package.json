@@ -6,13 +6,12 @@
   "directories": {
     "lib": "lib"
   },
-  "bin":{
-    "wsr":"bin/index.js"
+  "bin": {
+    "wsr": "bin/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    
-    "dir":"dir"
+    "dir": "dir"
   },
   "repository": {
     "type": "git",

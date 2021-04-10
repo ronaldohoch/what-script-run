@@ -2,6 +2,7 @@
     "pt-BR":{
         "question":"Qual script rodar?",
         "running":"Executando ",
+        "exit_process":"Processo terminou com o código: ",
         "errors":{
             "not_found":"package.json não encontrado. Você está rodando em um projeto npm?"
         }
@@ -9,6 +10,7 @@
     "en-US":{
         "question":"Which script run?",
         "running":"Running ",
+        "exit_process":"Child process exited with code: ",
         "errors":{
             "not_found":"Can't find package.json file. You are in a npm project?"
         }
