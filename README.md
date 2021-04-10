@@ -5,7 +5,7 @@
 Small helper to choose which npm script run.
 
 # Installation
-`npm i what-script-run`
+`npm i what-script-run -g`
 
 # Usage
 Navigate to your project and run:
