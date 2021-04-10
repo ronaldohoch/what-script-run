@@ -1,0 +1,16 @@
+{
+    "pt-BR":{
+        "question":"Qual script rodar?",
+        "running":"Executando ",
+        "errors":{
+            "not_found":"package.json não encontrado. Você está rodando em um projeto npm?"
+        }
+    },
+    "en-US":{
+        "question":"Which script run?",
+        "running":"Running ",
+        "errors":{
+            "not_found":"Can't find package.json file. You are in a npm project?"
+        }
+    }
+}
