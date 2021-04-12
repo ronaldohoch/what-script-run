@@ -1,6 +1,6 @@
 {
   "name": "what-script-run",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Small helper to choose which npm script run.",
   "main": "./lib/index.js",
   "directories": {
