@@ -11,3 +11,7 @@ Small helper to choose which npm script run.
 Navigate to your project and run:
 
 `wsr`
+
+See the gif bellow
+
+![What Script Run. Small helper to choose which npm script run.](./sample.gif)
