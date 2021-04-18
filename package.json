@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/ronaldohoch/what-script-run#readme",
   "dependencies": {
-    "inquirer": "^8.0.0"
+    "inquirer": "^8.0.0",
+    "ora": "^5.4.0"
   }
 }

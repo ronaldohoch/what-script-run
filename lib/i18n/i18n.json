@@ -5,6 +5,9 @@
         "exit_process":"Processo terminou com o código: ",
         "errors":{
             "not_found":"package.json não encontrado. Você está rodando em um projeto npm?"
+        },
+        "loading":{
+            "packageJson":"Carregando package.json"
         }
     },
     "en-US":{
@@ -13,6 +16,9 @@
         "exit_process":"Child process exited with code: ",
         "errors":{
             "not_found":"Can't find package.json file. Are You in a npm project?"
+        },
+        "loading":{
+            "packageJson":"Loading package.json"
         }
     }
 }
